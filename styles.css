@@ -1,3 +1,8 @@
 .favorite {
-    background-color: lightblue
+    background-color: #FF5733;
+}
+
+img {
+  width: 200px;
+  height: 100px;
 }
